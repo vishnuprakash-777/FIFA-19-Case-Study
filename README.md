@@ -54,6 +54,8 @@ The main goal of this project is to apply data preprocessing techniques, explora
 - Scikit-learn, XGBoost
 - Matplotlib, Seaborn
 - Streamlit (for interactive web applications)
+  
+
 
 ## Results
 
@@ -74,3 +76,11 @@ The main goal of this project is to apply data preprocessing techniques, explora
 ## Conclusion
 
 This project demonstrates the application of machine learning to predict critical metrics in football, including wages, release clauses, and player positions. The models developed provide actionable insights that can improve decision-making in football management.
+
+
+## Deployment
+
+To deploy the Streamlit app, use the following command:
+
+```bash
+streamlit run Home.py
