@@ -9,7 +9,7 @@ This project leverages machine learning techniques to analyze and predict key pl
 
 ## Dataset
 
-- **Source:** [Kaggle FIFA 19 Complete Player Dataset]((https://drive.google.com/file/d/1xEb00xhqoa99g5smTB1Ugy0sNqdXlChe/view?usp=sharing))
+- **Source:** [Kaggle FIFA 19 Complete Player Dataset]([(https://drive.google.com/file/d/1xEb00xhqoa99g5smTB1Ugy0sNqdXlChe/view?usp=sharing)])
 - **Content:** Player performance, demographics, and financial metrics
 - **Key Features:**
   - Player information: Name, Age, Nationality, Club, Overall Rating, Potential, etc.
