@@ -13,7 +13,7 @@ This project leverages machine learning techniques to analyze and predict key pl
 
 - **Files Used:**
   - `kl.csv` → Raw dataset used for exploration and model training in Jupyter Notebook
-  - `example.csv` → Cleaned and preprocessed dataset used for deployment in the Streamlit web app
+  - `example1.csv` → Cleaned and preprocessed dataset used for deployment in the Streamlit web app
 - **Content:** Player performance, demographics, and financial metrics
 - **Key Features:**
   - Player information: Name, Age, Nationality, Club, Overall Rating, Potential, etc.
